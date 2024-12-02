@@ -39,23 +39,31 @@ Este projeto utiliza os ícones da biblioteca Boxicons. Certifique-se de incluir
 ## Contribuição:
 Sinta-se à vontade para contribuir com melhorias para este projeto. Para isso, siga os passos abaixo:
 
-Faça um fork deste repositório.
+```
+1- Faça um fork deste repositório.
+```
+```
+2- Crie uma nova branch:
+```
 
-Crie uma nova branch: 
 ```
-git checkout -b minha-nova-funcionalidade
+3- git checkout -b minha-nova-funcionalidade
 ```
 
-Faça suas modificações e commit: 
 ```
-git commit -m 'Adiciona nova funcionalidade'
+4- Faça suas modificações e commit: 
+```
+```
+5- git commit -m 'Adiciona nova funcionalidade'
 ```
 Envie suas alterações: 
+
 ```
-git push origin minha-nova-funcionalidade
+6- git push origin minha-nova-funcionalidade
 ```
+
 ```
-Abra um pull request.
+7- Abra um pull request.
 ```
 
 ## Licença:
