@@ -18,7 +18,7 @@ HTML5: Estrutura semântica clara e organizada.
 
 CSS3: Estilização avançada com efeitos visuais como sombras, desfoque de fundo (backdrop-filter) e transições suaves.
 
-##Destaques do Design:
+## Destaques do Design:
 Fundo com imagem temática espacial: para um visual imersivo, criado por mim através da plataforma Leonardoai.
 
 Campos de entrada estilizados com ícones: para melhor usabilidade.
