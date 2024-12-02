@@ -1,10 +1,10 @@
-🎉 Novo Projeto Concluído: Space Login 🎉
+# 🎉 Novo Projeto Concluído: Space Login 🎉
 Estou muito animado em compartilhar com vocês meu mais recente projeto de desenvolvimento web, o Space Login! 🚀
 
 ##Sobre o Projeto:
 O Space Login é uma interface de login estilizada que combina funcionalidade e design moderno. Este projeto foi desenvolvido utilizando HTML e CSS, focando na criação de uma experiência de usuário envolvente e visualmente atraente.
 
-##Principais Funcionalidades:
+## Principais Funcionalidades:
 Tela de login com campos para usuário e senha.
 
 Efeitos de foco suaves e transições para uma melhor experiência de usuário.
