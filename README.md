@@ -41,13 +41,22 @@ Sinta-se à vontade para contribuir com melhorias para este projeto. Para isso, 
 
 Faça um fork deste repositório.
 
-Crie uma nova branch: git checkout -b minha-nova-funcionalidade
+Crie uma nova branch: 
+```
+git checkout -b minha-nova-funcionalidade
+```
 
-Faça suas modificações e commit: git commit -m 'Adiciona nova funcionalidade'
-
-Envie suas alterações: git push origin minha-nova-funcionalidade
-
+Faça suas modificações e commit: 
+```
+git commit -m 'Adiciona nova funcionalidade'
+```
+Envie suas alterações: 
+```
+git push origin minha-nova-funcionalidade
+```
+```
 Abra um pull request.
+```
 
 ## Licença:
 Este projeto é licenciado sob a MIT License.
